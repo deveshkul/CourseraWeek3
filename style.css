@@ -1,0 +1,46 @@
+body {
+    color: #1c1c20;
+    font-family: 'Oxygen', sans-serif;
+    background-color: rgb(214, 117, 26);
+}
+
+.navbar {
+    border: 0;
+    border-radius: 0;
+    background-color: rgb(123, 123, 123);
+}
+
+.navclass {
+    background-color: rgb(97, 159, 131);
+}
+
+head{
+
+    background-color: rgb(109, 160, 64);
+}
+
+
+header{
+    background-color: rgb(60, 131, 144);
+    background-position: 0cqh;
+}
+
+a class{
+    background-color: rgb(44, 66, 85);
+}
+.navbar-default .navbar-brand{
+    color: #7bd3da;
+}
+
+h2 {
+    margin-top: 20px;
+}
+
+section {
+    border: 1px solid #000;
+    margin-top: 7%;
+    margin-bottom: 3%;
+    padding: 5%;
+    background-color: rgba(157, 107, 218, 0.7);
+    
+}
